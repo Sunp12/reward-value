@@ -1,7 +1,8 @@
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
+//In this class I am creating a code of two methods one is create_with_miles_value () and second is convert_from_cash_to_miles ()
+// The first method converts the miles value into cash value and the second method converts cash value into miles value.
 public class RewardValueTests {
 
     @Test

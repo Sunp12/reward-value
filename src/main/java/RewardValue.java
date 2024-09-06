@@ -1,3 +1,7 @@
+//This class generates reward value taking cash value and miles value.
+//This class has two parametrized constructors, two static methods which used for converting the reward value and two getter methods which are used
+//For accessing the private static methods and private members.
+
 public class RewardValue {
     private final double cashValue;
     public static final double MILES_TO_CASH_CONVERSION_RATE = 0.0035;
